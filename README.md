@@ -18,11 +18,11 @@ Como um bom projeto de Eng. de Software, mantivemos a stack simples, rápida e r
 - **GitHub Pages** (Hospedagem gratuita e CI/CD integrado)
 
 ## 🤝 A Diretoria (Gestão Fundadora)
-- **Presidente:** [Seu Nome]
+- **Presidente:** Miguel A. Detoni Guerra
 - **Vice-Presidente:** Leonardo de Mari
 - **Diretor de Comunicação:** Otávio Salton
 - **Diretor de Eventos:** Leonardo dos Anjos
-- **Tesoureiro:** Júlio
+- **Tesoureiro:** Júlio César Brum
 
 ## 💡 Como contribuir
 Este é um projeto **de alunos para alunos**. Se você estuda Eng. de Software na UCS Bento e quer adicionar uma nova funcionalidade ao nosso site (como um dark mode, uma seção de vagas de estágio, etc.), sinta-se à vontade para fazer um *Fork*, criar sua *Branch* e abrir um *Pull Request*!
