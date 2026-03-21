@@ -44,16 +44,19 @@ O maior campeonato de tênis de mesa do campus! Em vez de um evento único, cria
 - **Formato:** Chaveamento de eliminatórias organizado nos intervalos e janelas de aulas. O restante do valor arrecadado vai direto para o caixa do DA para financiar eventos acadêmicos.
 - **Líderes da Organização:** Leonardo dos Anjos (chaveamento e regras) e Júlio (controle de inscrições e tesouraria).
 
-### 🎮 Corujão E-sports - CS2 & Valorant (Maio)
-Vamos criar a cultura gamer competitiva no campus!
-- **Público:** Aberto para todos os cursos da UCS.
-- **Formato:** Campeonato online com transmissão das finais. Inscrição por equipe (Line-up).
-- **Objetivo:** Trazer alunos de outros cursos para o nosso ecossistema e arrecadar fundos de forma escalável.
-- **Líder da Organização:** Leonardo de Mari.
+### 🎮 Campeonato Semestral de FIFA em Duplas
+A rivalidade do sofá agora tem endereço oficial: a sala do DAES! Uma vez por semestre, vamos descobrir quem é a melhor dupla de FIFA do campus.
+- **Público:** Aberto para **TODOS os alunos da UCS Bento**. Não importa o seu curso, monte sua dupla, venha conhecer nossa estrutura e mostre quem manda no controle!
+- **Local:** Sala do DAES.
+- **Formato:** Torneio em duplas (2v2).
+- **Inscrição:** R$ 10,00 por pessoa (R$ 20,00 a dupla).
+- **Premiação:** Prêmio garantido em dinheiro/brindes para as duas equipes finalistas (1º e 2º lugares).
+- **Líderes da Organização:** Leonardo de Mari e Júlio.
 
-### 🍻 Festa Intercursos: "Bugou Tudo" (Junho)
-A festa oficial de encerramento do semestre. Ninguém é de ferro depois de passar em Cálculo e Algoritmos!
-- **Público:** Aberto para **toda a universidade**.
-- **Formato:** Parceria estratégica com um pub/bar de Bento Gonçalves. O DAES não paga aluguel de espaço, apenas negocia a venda de ingressos antecipados ou porcentagem de bilheteria.
-- **Objetivo:** O maior evento de arrecadação do semestre. 
-- **Líderes da Organização:**
+### 🍻 As Festas Épicas do DAES: Start e Conclusão (OPEN BAR!)
+Neste semestre, não teremos apenas uma, mas **DUAS** festas gigantes para marcar o início e o fim do ciclo. O detalhe principal? Ambas serão **OPEN BAR** e feitas para parar a faculdade.
+- **Público:** Aberto para **TODA a UCS Bento**. Queremos integrar todos os cursos, do bloco A ao Z. Quanto mais gente, melhor a festa!
+- **Festa 1 (Início do Semestre):** A nossa "Calourada" oficial. O momento perfeito para misturar os calouros com a galera mais velha de todos os prédios e começar o semestre com o pé direito.
+- **Festa 2 (Conclusão do Semestre):** A famosa festa "Bugou Tudo". O alívio merecido para comemorar a sobrevivência nas provas finais, reunindo a faculdade inteira em um só lugar.
+- **Ingressos e Valores:** Como são eventos Open Bar de peso, os lotes e valores serão anunciados com exclusividade no nosso Instagram próximo às datas. Fiquem ligados!
+- **Líderes da Organização:** Otávio Salton e Leonardo dos Anjos (nossos mestres do networking).
